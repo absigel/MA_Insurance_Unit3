@@ -9,6 +9,6 @@ The repository contains 3 Python notebooks:
 
 These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library.
 
-Provenance (where did the data come from)
-Purpose (what/who is this data/code for)
-Potential (why was this repo created and what might people do with it)
+- Provenance (where did the data come from)
+- Purpose (what/who is this data/code for)
+- Potential (why was this repo created and what might people do with it)
