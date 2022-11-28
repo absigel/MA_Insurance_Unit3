@@ -2,7 +2,7 @@
 
 This repository includes a notebook with information on using Python, Pandas, and compiling data. It also includes compiled data and visualizations regarding insurance in Massachusetts.  
 
-- The main County Health Data set was downloaded as a CSV file from Professor Gotzler's ENGL105 Canvas site. The Massachusetts Insurance Subset was compiled in Python using Pandas. 
+- The main County Health Data set was downloaded as a CSV file from Professor Gotzler's ENGL105 Canvas site. The Massachusetts Insurance Subset was compiled in Python following the steps layed out in the notebook. 
 - This data and code are for those interested in Insurance in Massachusetts. 
 - This repository is beneficial for anyone replicating the compiling of data from the County Health Data set using Python. 
 - The data itself can be useful in research regarding the number of people in Massachusetts who are uninsured and the amount people pay for insurance by county. This information could be incredibly important for insurance companies attempting to insure more people across Massachusetts counties. 
